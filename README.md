@@ -1,7 +1,7 @@
 # 🌐 Chantal Mendez | Virtual Assistant Portfolio
 
 Welcome to my personal portfolio website!  
-This site is designed to showcase my skills, services, and experience as a Virtual Assistant.
+This site is designed to showcase my skills, services, and experience as a Rising Virtual Assistant.
 
 🔗 **Live Website:**  
 https://chantalmendez.github.io
@@ -52,8 +52,8 @@ I am a dedicated and detail-oriented Virtual Assistant with a background in cust
 
 ## 📞 Contact Me
 
-📧 Email: your@email.com  
-📱 WhatsApp: +63 XXX XXX XXXX  
+📧 Email: chaianmen7@gmail.com  
+📱 Contact Number: +63 9356148617  
 
 ---
 
