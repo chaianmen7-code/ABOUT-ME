@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hire Chantal Mendez | Virtual Assistant</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 80px 20px;
+    background: linear-gradient(to right, #0f172a, #1e293b);
+}
+
+header h1 {
+    font-size: 42px;
+}
+
+header p {
+    color: #94a3b8;
+    max-width: 600px;
+    margin: auto;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background: #38bdf8;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+section {
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card {
+    background: #1e293b;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.grid .card {
+    width: 280px;
+}
+
+.testimonial {
+    font-style: italic;
+    color: #cbd5f5;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #020617;
+    color: #94a3b8;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>I Help Businesses Save Time & Grow Online</h1>
+    <p>Reliable Virtual Assistant specializing in customer support, data entry, and social media management.</p>
+    <a href="#contact" class="btn">Hire Me</a>
+</header>
+
+<section>
+    <h2>What I Can Do For You</h2>
+    <div class="grid">
+        <div class="card">
+            <h3>Customer Support</h3>
+            <p>Email & chat support that keeps your customers happy and loyal.</p>
+        </div>
+
+        <div class="card">
+            <h3>Data Entry</h3>
+            <p>Accurate and fast data management to keep your business organized.</p>
+        </div>
+
+        <div class="card">
+            <h3>Social Media</h3>
+            <p>Content creation, posting, and engagement using Canva.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Why Hire Me?</h2>
+    <div class="grid">
+        <div class="card">
+            <p>✔ Detail-Oriented & Reliable</p>
+            <p>✔ Strong Customer Service Background</p>
+            <p>✔ Fast Learner & Tech-Savvy</p>
+            <p>✔ Committed to Quality Work</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Sample Work</h2>
+    <div class="card">
+        <p>✔ Canva Social Media Designs</p>
+        <p>✔ Data Entry Projects</p>
+        <p>✔ Customer Support Templates</p>
+    </div>
+</section>
+
+<section>
+    <h2>Client Feedback</h2>
+    <div class="card testimonial">
+        <p>"Very reliable and easy to work with. Highly recommended!"</p>
+    </div>
+</section>
+
+<section>
+    <h2>Simple Pricing</h2>
+    <div class="grid">
+        <div class="card">
+            <h3>Basic</h3>
+            <p>$5/hr</p>
+            <p>Data Entry & Simple Tasks</p>
+        </div>
+
+        <div class="card">
+            <h3>Standard</h3>
+            <p>$8/hr</p>
+            <p>Customer Support & Admin Work</p>
+        </div>
+
+        <div class="card">
+            <h3>Premium</h3>
+            <p>$12/hr</p>
+            <p>Full VA Support + Social Media</p>
+        </div>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Let’s Work Together</h2>
+    <div class="card">
+        <p>Email: your@email.com</p>
+        <p>WhatsApp: +63 XXX XXX XXXX</p>
+        <a href="mailto:your@email.com" class="btn">Send Message</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Chantal Mendez | Virtual Assistant</p>
+</footer>
+
+</body>
+</html>
