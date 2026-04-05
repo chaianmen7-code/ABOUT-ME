@@ -45,8 +45,6 @@ I am a dedicated and detail-oriented Virtual Assistant with a background in cust
 ## 💰 Pricing
 
 - Basic: $5/hr  
-- Standard: $8/hr  
-- Premium: $12/hr  
 
 ---
 
