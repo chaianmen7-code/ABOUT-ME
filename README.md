@@ -1,7 +1,7 @@
 # 🌐 Chantal Mendez | Virtual Assistant Portfolio
 
 Welcome to my personal portfolio website!  
-This site is designed to showcase my skills, services, and experience as a Rising Virtual Assistant.
+This site is designed to showcase my skills, services, and experience as a rising Virtual Assistant.
 
 🔗 **Live Website:**  
 https://chantalmendez.github.io
